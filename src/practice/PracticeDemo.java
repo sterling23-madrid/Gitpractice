@@ -5,7 +5,7 @@ public class PracticeDemo {
 		System.out.println("Sterling Madrid");
 
 		String city = "MD";
-		String state = "USA"
+		String state = "USA";
 	}
 
 }
